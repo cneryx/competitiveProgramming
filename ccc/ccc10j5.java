@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class KnightHopRecursion {
+public class ccc10j5 {
 	public static int least = -1;
 
 	public static Integer[] a = new Integer[2];
