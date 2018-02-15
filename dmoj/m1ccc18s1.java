@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class AMathProblem {
+public class m1ccc18s1 {
 
 	public static void main(String[] args) throws IOException {
 
