@@ -1,8 +1,6 @@
-package ccc07;
-
 import java.util.Scanner;
 
-public class FederalVotingAge {
+public class ccc07s1 {
 
 	public static void main(String[] args) {
 
