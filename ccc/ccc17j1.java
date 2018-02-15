@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ccc17j1 {
 
 	public static void main(String[] args) {
 
