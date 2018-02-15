@@ -1,8 +1,6 @@
-package ccc07;
-
 import java.util.Scanner;
 
-public class Bananas {
+public class ccc05j5 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		for (String s = in.next(); !s.equals("X");) {
